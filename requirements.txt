@@ -1,0 +1,11 @@
+# Core quantum computing & scientific stack (tested on Python 3.11)
+qiskit==2.5.2
+qiskit-aer==0.17.2
+qiskit-ibm-runtime==0.50.0
+numpy==2.4.4
+scipy==1.17.1
+matplotlib==3.10.9
+
+# Optional (Extension Track C - JAX vectorization; no wheels for Intel macOS)
+# jax==0.10.2
+# jaxlib==0.10.2
